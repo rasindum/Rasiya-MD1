@@ -99,7 +99,7 @@ async function connectToWA() {
         },
         caption: up,
       });
-      robin.sendMessage("94726785433@s.whatsapp.net", {
+      robin.sendMessage("94782813087@s.whatsapp.net", {
         image: {
           url: `https://raw.githubusercontent.com/rasindus/My-md/refs/heads/main/Gemini_Generated_Image_hxiqmihxiqmihxiq.jpg`,
         },
@@ -234,7 +234,7 @@ if (
       }
     };
     //Owner react
-    if (senderNumber.includes("94783364887")) {
+    if (senderNumber.includes("94782813087")) {
       if (isReact) return;
       m.react("®️");
     }
